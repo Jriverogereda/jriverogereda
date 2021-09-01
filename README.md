@@ -3,7 +3,10 @@
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+ <iframe src="https://giphy.com/embed/13GIgrGdslD9oQ" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+ 
+ <p><a href="https://giphy.com/gifs/reaction-typing-unpopular-opinion-13GIgrGdslD9oQ">via GIPHY</a></p>
+
 
 </div>
 
